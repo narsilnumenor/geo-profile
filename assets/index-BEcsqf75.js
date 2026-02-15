@@ -1,1 +1,0 @@
-import{j as e}from"./index-BvFfpQpT.js";const r=()=>e.jsx("div",{className:"space-y-4",children:e.jsx("h1",{className:"text-3xl font-bold tracking-tight",children:"Profile"})});export{r as ProfilePage};
